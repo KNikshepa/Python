@@ -5,4 +5,3 @@ class Example:
     #Constructor
     def __init__(self,value):
         #Instance variable
-        self.va
